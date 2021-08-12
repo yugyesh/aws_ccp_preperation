@@ -108,3 +108,5 @@
         - [ ]  Create a highly available ASG with two desired instance
         - [ ]  Terminate one of the created EC2 instance
 </details>
+
+### [Link to the notion for better readability](https://bejewled-kip-9a9.notion.site/Elastic-Load-Balancing-ELB-Auto-Scaling-Groups-ASG-545276e8cc764c9e9cc9d5a2815afb2b)
